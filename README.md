@@ -11,13 +11,13 @@
 2)Create HAS-A variable in Parent Class
 3)Check for Collection or Non-Collection
 4)Apply Multiplicity Annotation at HAS-A variable
-    1...1
-       @OneToOne
-    1...*
-       @OneToMany
-    *...1
-       @ManyToOne
-    *...*
-       @ManyToMany
+    1...1<br>
+       @OneToOne<br>
+    1...*<br>
+       @OneToMany<br>
+    *...1<br>
+       @ManyToOne<br>
+    *...*<br>
+       @ManyToMany<br>
 
 5)Add JoinColum / JohnTable(**** at HAS-A variable
