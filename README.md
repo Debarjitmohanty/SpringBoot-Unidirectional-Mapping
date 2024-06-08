@@ -17,7 +17,7 @@
        @OneToMany<br>
     *...1<br>
        @ManyToOne<br>
-    *...*<br>
+    *...* <br>
        @ManyToMany<br>
 
-5)Add JoinColum / JohnTable(**** at HAS-A variable
+5)Add JoinColum / JohnTable(**** at HAS-A variable)
